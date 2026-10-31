@@ -1,0 +1,8 @@
+[project]
+name = "receipt-generator"
+version = "1.0.0"
+description = "Receipt Generator Application"
+requires-python = ">=3.10"
+dependencies = [
+    "flet"
+]
